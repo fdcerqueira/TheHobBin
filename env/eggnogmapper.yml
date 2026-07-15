@@ -1,0 +1,10 @@
+name: eggnog
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - eggnog-mapper=2.1.12
+  - python=3.12
+  - diamond=2.1.9
+
+

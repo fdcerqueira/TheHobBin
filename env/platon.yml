@@ -1,0 +1,8 @@
+name: platon
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - platon=1.7
+  - dnaapler=1.3.0
+  - blast=2.16.0

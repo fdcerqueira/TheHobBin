@@ -1,0 +1,9 @@
+name: das_tool
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - das_tool=1.1.7
+  # Pin r-docopt: 0.7.2 breaks DAS_Tool's R arg-parsing
+  # ("'short' is not a valid field ... reference class Argument"). 0.7.1 works.
+  - r-docopt=0.7.1

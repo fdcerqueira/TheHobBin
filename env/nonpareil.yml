@@ -1,0 +1,8 @@
+name: nonpareil
+channels:
+  - bioconda
+dependencies:
+  - python=3.9
+  - nonpareil=3.5.1
+
+

@@ -1,0 +1,6 @@
+name: long_read_qc
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - nanoplot=1.46.1

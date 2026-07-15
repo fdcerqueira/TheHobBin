@@ -1,0 +1,10 @@
+name: metabat2
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - metabat2=2.15
+  - minimap2=2.28
+  - samtools=1.15.1
+  - maxbin2=2.2.7
+

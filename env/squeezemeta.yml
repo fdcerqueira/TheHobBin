@@ -1,0 +1,9 @@
+name: squeezemeta_4
+channels:
+  - conda-forge
+  - bioconda
+  - fpusan
+dependencies:
+  - squeezemeta=1.5.1
+  - tree=1.8.0
+  - pysam

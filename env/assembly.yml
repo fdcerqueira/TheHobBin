@@ -1,0 +1,16 @@
+name: assembly
+channels:
+  - bioconda
+dependencies:
+  - fastp=1.0.1
+  - filtlong=0.3.1
+  - fastplong=0.4.1
+  - bbmap=38.90
+  - samtools=0.1.19
+  - megahit=1.2.9 
+  - biopython=1.70
+ 
+
+
+
+
