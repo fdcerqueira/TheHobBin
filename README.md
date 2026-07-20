@@ -258,8 +258,9 @@ nextflow run my_pipe.nf -entry long_reads -c my_config.config
 
 ## 6. Citation  
 
-Cerqueira, F. (2026). TheHobBin: A Nextflow workflow for metagenomics from assembly to MAG annotation, supporting short-read, long-read (ONT), and hybrid sequencing data. [![DOI](https://zenodo.org/badge/1300618018.svg)](https://doi.org/10.5281/zenodo.21451970)
+Cerqueira, F. (2026). TheHobBin: A Nextflow workflow for metagenomics from assembly to MAG annotation, supporting short-read, long-read (ONT), and hybrid sequencing data. <a href="https://doi.org/10.5281/zenodo.21451970"><img src="https://zenodo.org/badge/1300618018.svg" alt="DOI"></a>  
 
+  
 ## 7. References
 **1.** Aroney, S. T. N., Newell, R. J. P., Nissen, J. N., Camargo, A. P., Tyson, G. W., & Woodcroft, B. J. (2025). CoverM: read alignment statistics for metagenomics. Bioinformatics, 41(4). https://doi.org/10.1093/bioinformatics/btaf147  
 **2.** Blin, K., Shaw, S., Augustijn, H. E., Reitz, Z. L., Biermann, F., Alanjary, M., Fetter, A., Terlouw, B. R., Metcalf, W. W., Helfrich, E. J. N., van Wezel, G. P., Medema, M. H., & Weber, T. (2023). antiSMASH 7.0: new and improved predictions for detection, regulation, chemical structures and visualisation. Nucleic Acids Research, 51(W1), W46–W50. https://doi.org/10.1093/nar/gkad344  
