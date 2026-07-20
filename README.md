@@ -258,7 +258,7 @@ nextflow run my_pipe.nf -entry long_reads -c my_config.config
 
 ## 6. Citation  
 
-Cerqueira, F. (2026). TheHobBin: A Nextflow workflow for metagenomics from assembly to MAG annotation, supporting short-read, long-read (ONT), and hybrid sequencing data. <a href="https://doi.org/10.5281/zenodo.21451970"><img src="https://zenodo.org/badge/1300618018.svg" alt="DOI"></a>  
+Cerqueira, F. (2026). TheHobBin: A Nextflow workflow for metagenomics from assembly to MAG annotation, supporting short-read, long-read (ONT), and hybrid sequencing data. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21451970.svg)](https://doi.org/10.5281/zenodo.21451970)
 
   
 ## 7. References
