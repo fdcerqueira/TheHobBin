@@ -11,7 +11,8 @@ A nextflow workflow for Metagenomics with short- and/or nanopore read assembly, 
 3. [Databases](#3-databases)
 4. [Configuration](#4-configuration)
 5. [Usage](#5-usage)
-6. [References](#6-references)
+6. [Citation](#6-citation)
+7. [References](#7-references)
 
 ## 1. Description
 ### The workflow for Illumina reads
@@ -255,7 +256,11 @@ nextflow run my_pipe.nf -entry long_reads -c my_config.config
 ```
 [↑ Back to top](#table-of-contents)  
 
-## 6. References
+## 6. Citation  
+
+Cerqueira, F. (2026). TheHobBin: A Nextflow workflow for metagenomics from assembly to MAG annotation, supporting short-read, long-read (ONT), and hybrid sequencing data. [TheHobBin: ](https://doi.org/10.5281/zenodo.21451971)
+
+## 7. References
 **1.** Aroney, S. T. N., Newell, R. J. P., Nissen, J. N., Camargo, A. P., Tyson, G. W., & Woodcroft, B. J. (2025). CoverM: read alignment statistics for metagenomics. Bioinformatics, 41(4). https://doi.org/10.1093/bioinformatics/btaf147  
 **2.** Blin, K., Shaw, S., Augustijn, H. E., Reitz, Z. L., Biermann, F., Alanjary, M., Fetter, A., Terlouw, B. R., Metcalf, W. W., Helfrich, E. J. N., van Wezel, G. P., Medema, M. H., & Weber, T. (2023). antiSMASH 7.0: new and improved predictions for detection, regulation, chemical structures and visualisation. Nucleic Acids Research, 51(W1), W46–W50. https://doi.org/10.1093/nar/gkad344  
 **3.** Bouras, G., Grigson, S. R., Papudeshi, B., Mallawaarachchi, V., & Roach, M. J. (2024). Dnaapler: A tool to reorient circular microbial genomes. Journal of Open Source Software, 9(93), 5968. https://doi.org/10.21105/joss.05968  
